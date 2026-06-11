@@ -1,0 +1,22 @@
+# Compiled binaries
+TCP_Version/server
+TCP_Version/client
+UDP_Version/server
+UDP_Version/client
+*.o
+*.out
+*.exe
+
+# Runtime files created while testing
+server_log.txt
+udp_server_log.txt
+received_*
+
+# Editor / OS junk
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Word temporary files
+~$*.docx
