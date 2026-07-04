@@ -53,7 +53,6 @@ Advanced_Chat_Application/
 │   └── client.cpp        # UDP client
 ├── Report/
 │   └── Report.docx       # Project report
-├── Screenshots/          # Testing screenshots
 ├── Makefile
 └── README.md
 ```
